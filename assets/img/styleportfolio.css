@@ -1,0 +1,153 @@
+body {
+	background-image: url(../img/oldmoon.jpg);
+	margin: 0px;
+	padding: 0px;
+	font-size: 18px;
+	line-height: 150%;
+}
+
+#name {
+	background-color: #4aaaa5;
+	width: 30%;
+	color: #ffffff;
+	margin: 0px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+	font-size: 28px;
+	margin-left: 170px;
+
+}
+
+h2 {
+	font-size: 24px;
+	margin-left: 30px;
+	color: #4aaaa5;
+	padding: 20px;
+}
+
+.container {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+#main-bio,
+#contact-info,
+#bio-image {
+	float: left;
+}
+
+#main-bio {
+	
+	margin-top: 30px;
+	margin-left: 30px;
+	background-color: #ffffff;
+	width: 650px;
+	margin-left: 40px;
+	text-align: center;
+	border: 1px solid #cccccc;
+	position: absolute;
+}
+
+#contact-info {
+	clear: both;
+	width: 270px;
+	background-color: #ffffff;
+	border: 1px solid #cccccc;
+	float: right;
+	height: 200px;
+	margin-top: 5px;
+	}
+
+#bio-image {
+	position: relative;
+	margin-left: 30px;
+}
+
+
+#bio-image {
+	margin-right: 20px;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+
+header {
+	clear: both;
+	width: 100%;
+	background-color: #ffffff;
+	border-bottom: 2px solid #cccccc;
+
+	
+ }
+
+
+#About {
+	text-align: left;
+	width: 80%;
+	border-bottom: 1px solid #cccccc;
+}
+
+#width {
+	width: 70%;
+	border-bottom: 1px solid #cccccc;
+	padding-right: 5px;
+	position: relative;
+}
+
+
+#pics {
+	display: inline-block;
+	white-space:nowrap;
+	margin-left: 60px;
+}
+
+footer {
+	clear: both;
+	background-color: #666666;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	position: fixed;
+	border-top: 5px solid #4aaaa5;
+
+}
+
+
+ul {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+
+li {
+	display: inline;
+	float: right;
+	position: relative;
+	right: 170px;
+	top: -45px;
+	bottom: 20px;
+	color: #cecac8;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+li a {
+	color: #cecac8;
+	text-decoration: none;
+
+}
+
+#portfolio {
+	border-right: 1px solid #cccccc;
+	border-left: 1px solid #cccccc;
+}
+
+
+
+

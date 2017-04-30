@@ -1,0 +1,26 @@
+#cointainer{
+	width: 960px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #4aaaa5;
+}
+
+
+#Header {
+	width: 180px;
+	background-color:  #ffffff;
+	color: #777777
+}
+
+h1 {
+
+	background-color:#1935d6;
+	width: 160;
+	height: 60;
+
+}
+
+body {
+	background-image: url(..//img/oldmoon.jpg);
+}
