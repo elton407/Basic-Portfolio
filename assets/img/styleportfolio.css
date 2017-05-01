@@ -116,6 +116,7 @@ footer {
 	position: fixed;
 	border-top: 5px solid #4aaaa5;
 	color: #cecac8;
+	font-size: 14px;
 
 }
 
@@ -163,6 +164,80 @@ p{
 	text-align: left;
 	margin-left: 20px;
 }
+
+input[type=text], select, textarea {
+	width: 100%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin-top: 6px;
+	resize: vertical;
+}
+
+input[type=submit] {
+	background-color: #4aaaa5;
+	color: #ffffff;
+	padding:10px 20px;
+	border:none;
+	cursor: pointer;
+	float: left;
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
+
+.form {
+	padding:20px;
+	text-align: left;
+	position: relative;
+	top: -20px;
+}
+
+
+#row1{
+	width: 100%;
+	display: inline;
+	
+}
+
+#row2 {
+	width: 400px;
+	display: inline;
+}
+
+#p1 {
+	float: left;
+	margin-left: 40px;
+	width: 275px;
+	margin-bottom: 40px;
+
+}
+#p2 {
+	float: right;
+	margin-right: 40px;
+	width: 275px;
+}
+
+#p3{
+	clear: both;
+	float: left;
+	width: 275px;
+	margin-left: 40px;
+}
+
+#p4
+	{
+	float: right;
+	width: 275px;
+	margin-right: 40px;
+}
+
+	#collage{
+		overflow: scroll;
+	}
+
+
+
 
 
 
