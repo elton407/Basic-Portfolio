@@ -338,3 +338,13 @@ input[type=submit] {
 	position: absolute;
 	height: 1200px;
 }
+
+a:hover {
+	background: #4aaaa5;
+	padding: 20px;
+	font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+	color: #ffffff;
+
+}
+
+
